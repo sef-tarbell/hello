@@ -1,0 +1,6 @@
+# ignore the result
+hello
+
+# ignore swaps
+*.swp
+
